@@ -12,4 +12,5 @@ else
 {
    System.out.println ("Introduce algun numero positivo");
   
-  #Lisbeth Mujica
+  // Lisbeth Mujica.
+    
