@@ -3,7 +3,7 @@ public Static  Void main (String([ ]) arg) {
 charch nota = '7';
 Switch (nota) { 
 case '5':
-System.out.println ("zuficiente xddd";
+System.out.println ("zuficiente xddd");
 break;
 case '6':
 system.out.println ("Bien xdd");
