@@ -6,8 +6,8 @@ int numero 7; if (numero>0){
     }
 else
 {
-  System.ot.println ("El numero introducido es Impar");
+  System.out.println ("El numero introducido es Impar");
   }
 else
 {
-   System.ot.println ("Introduce algun numero positivo");
+   System.out.println ("Introduce algun numero positivo");
